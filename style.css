@@ -1,0 +1,13 @@
+#students {
+    background-image: url(.image/DIG_Logo.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+    background-attachment: fixed;
+    background-color:rgba(255,255,255,0.8);
+    background-blend-mode:lighten;
+}
+h1 {
+    font-size: xx-large;
+    text-align: center;
+}
